@@ -47,11 +47,7 @@ a `PHP client`_, `gocelery`_, gopher-celery_ for Go, and rusty-celery_ for Rust.
 Language interoperability can also be achieved by using webhooks
 in such a way that the client enqueues an URL to be requested by a worker.
 
-.. _node-celery: https://github.com/mher/node-celery
-.. _`PHP client`: https://github.com/gjedeer/celery-php
-.. _`gocelery`: https://github.com/gocelery/gocelery
-.. _gopher-celery: https://github.com/marselester/gopher-celery
-.. _rusty-celery: https://github.com/rusty-celery/rusty-celery
+
 
 What do I need?
 ===============
