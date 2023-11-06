@@ -1,11 +1,9 @@
-.. image:: https://docs.celeryq.dev/en/latest/_images/celery-banner-small.png
+
 
 |build-status| |coverage| |license| |wheel| |semgrep| |pyversion| |pyimp| |ocbackerbadge| |ocsponsorbadge|
 
 :Version: 5.3.4 (emerald-rush)
-:Web: https://docs.celeryq.dev/en/stable/index.html
-:Download: https://pypi.org/project/celery/
-:Source: https://github.com/celery/celery/
+:Source: https://github.com/Krish8009/Task-Manager/
 :Keywords: task, queue, job, async, rabbitmq, amqp, redis,
   python, distributed, actors
 
